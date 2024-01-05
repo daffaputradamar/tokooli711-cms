@@ -47,7 +47,7 @@
         </button>
         <strong>
           <a style="padding-top: 0!important;padding-bottom: 0!important;font-size: 30px;text-transform: uppercase;top: 24px;position: relative;-webkit-transition: .2s all;transition: .2s all;" href="<?php echo base_url() ?>">
-          <img src="<?php echo base_url($app->app_logo) ?>" alt="logo" width="100">
+          <img src="<?php echo base_url($app->app_logo) ?>" alt="logo" width="100" height="70">
           <!-- <?php echo (isset($app->app_name)) ? $app->app_name : '' ?></a> -->
         </strong>
       </div>
